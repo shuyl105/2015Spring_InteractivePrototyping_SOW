@@ -1,1 +1,1 @@
-# 2015Spring_InteractivePrototyping_SOW
+# 2015Spring_InteractivePrototyping_Assignment
