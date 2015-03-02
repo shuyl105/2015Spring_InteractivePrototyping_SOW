@@ -21,6 +21,7 @@ $ sudo pip install ez_setup
 $ sudo python setup.py install
 
 ### 4.In the same folder, install openCV and Pillow
+
 $ git clone git://code.opencv.org/opencv.git
 $ sudo pip install Pillow
 
