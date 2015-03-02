@@ -25,8 +25,10 @@ $ git clone git://code.opencv.org/opencv.git
 $ sudo pip install Pillow
 
 ### 5. We are ready to go now. Find a video you want to use on Youtube. For this time, I used [Minions - Official Trailer 2](https://www.youtube.com/watch?v=XgYhvSfXlt4)
-[id]: 2015Spring_InteractivePrototyping_assignment/week4/MoviePy/ScreenShot_Youtube.png "screenShot_youtube"
-
+.. image:: https://raw.githubusercontent.com/shuyl105/2015Spring_InteractivePrototyping_assignment/master/week4/MoviePy/ScreenShot_Youtube.png
+    :alt: [logo]
+    :align: center
+    
 $ youtube-dl 2Jw-XgYhvSfXlt4 -o trailer.mp4
 
 ### 6.Create a gif.py file and type
